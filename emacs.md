@@ -7,6 +7,8 @@ M-t - switch word
 C-x, C-t - switch line positions
 M-; - add comment
 C-x, C-g - recent files
+
+Consalt package:
 C-x b - list of buffers
 
 C-x-2 - split view by horizontal
