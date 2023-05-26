@@ -8,8 +8,8 @@ M-x - run commands
 	list-packages - repository packages
 	custom-variable - settings for veriable
 M-< to header file
-M-> to end file
 C-s - search
+M-> to end file
 
 C-x 0 - close buffers
 C-x o - go to another buffer
@@ -24,6 +24,12 @@ M-t - switch word
 C-x, C-t - switch line positions
 M-; - add comment
 C-x, C-g - recent files
+
+# Tabs
+C-x t 0 - close tab
+C-x t 2 - new tab
+C-shift-tab - to left tab
+C-x tab - to right tab
 
 # Consalt package:
 C-x b - list of buffers
