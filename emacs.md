@@ -25,6 +25,10 @@ C-x, C-t - switch line positions
 M-; - add comment
 C-x, C-g - recent files
 
+# Config
+C-x e - run lisp block
+M-x eval-buffer - run all buffer
+
 # Tabs
 C-x t 0 - close tab
 C-x t 2 - new tab
