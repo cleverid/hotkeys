@@ -16,7 +16,7 @@ C-x o - go to another buffer
 C-x "arrow back" - before frame
 
 C-/ - back
-C-w - ?
+C-w - delete to start line from cursor
 C-k - delete to end line
 C-y - insert cuted (see C-k)
 C-p switch char
