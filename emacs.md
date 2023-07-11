@@ -24,6 +24,7 @@ M-t - switch word
 C-x, C-t - switch line positions
 M-; - add comment
 C-x, C-g - recent files
+M-; - comment
 
 # Config
 C-x e - run lisp block
